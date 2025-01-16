@@ -1,5 +1,5 @@
 # Obsidian_Notes_for_PDFs
-Run script in a directory containing directories of PDFs to create an Obsidian vault with a note for each PDF.
+Run script in a directory containing directories of PDFs to create an Obsidian vault with a note for each PDF. Useful for literature reviews.
 
 `python3 ./create_obsidian_notes.py` to run
 
