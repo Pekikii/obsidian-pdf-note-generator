@@ -5,7 +5,7 @@ Run script in a directory containing directories of PDFs to create an Obsidian v
 
 ## Example note for a PDF `./important/my_pdf.pdf`
 
-# my_pdf
+```# my_pdf
 
 Link to the PDF: [my_pdf](file:////path/to/important/my_pdf.pdf)
 
@@ -15,3 +15,4 @@ Link to the PDF: [my_pdf](file:////path/to/important/my_pdf.pdf)
 ## Tags
 
 #important
+```
